@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name RF_Module)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/RF_Module.lib)(options "")(descr ""))
+  (lib (name Interface_USB)(type Legacy)(uri ${KICAD_SYMBOL_DIR}/Interface_USB.lib)(options "")(descr ""))
+  (lib (name ESP32_Tag)(type Legacy)(uri ${KIPRJMOD}/lib/symbols/ESP32_Tag.lib)(options "")(descr ""))
+)
